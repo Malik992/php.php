@@ -1,0 +1,11 @@
+#div {
+    width: 250px;
+    height: 180px;
+    background-image: url('index.jpeg');
+    margin-left: 900px;
+    margin-top: -130px;
+}
+
+a {
+    text-decoration: none;
+}
